@@ -1,1 +1,0 @@
-This is the code for generating the synthetic data sets for Sync1 and Sync2.
