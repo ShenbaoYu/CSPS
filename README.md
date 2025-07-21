@@ -3,11 +3,11 @@ Source code and data set for the paper [Causal-Driven Skill Prerequisite Structu
 
 If this code helps with your studies, please kindly cite the following publication:
 @inproceedings{yu2024causal,\
-  title={Causal-driven skill prerequisite structure discovery},\
-  author={Yu, Shenbao and Zeng, Yifeng and Yang, Fan and Pan, Yinghui},\
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},\
-  volume={38},\
-  number={18},\
-  pages={20604--20612},\
-  year={2024}\
+&emsp;  title={Causal-driven skill prerequisite structure discovery},\
+&emsp;  author={Yu, Shenbao and Zeng, Yifeng and Yang, Fan and Pan, Yinghui},\
+&emsp;  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},\
+&emsp;  volume={38},\
+&emsp;  number={18},\
+&emsp;  pages={20604--20612},\
+&emsp;  year={2024}\
 }
